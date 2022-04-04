@@ -16,6 +16,8 @@ Have installed Node v14.16.1
 
 Have installed npx v6.14.12
 
+## To run the front end web application
+
 ### `npm start`
 
 Runs the app in the development mode.\
