@@ -10,6 +10,12 @@ npm install
 
 In the project directory, you can run:
 
+## Pre-requirements
+
+Have installed Node v14.16.1
+
+Have installed npx v6.14.12
+
 ### `npm start`
 
 Runs the app in the development mode.\
